@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Weekly Standup Summary",
+    "description": "Reviewed sprint progress and blockers",
+    "category": "Work"
+  },
+  {
+    "title": "Grocery list",
+    "description": "Buy milk, eggs, spinach, and coffee",
+    "category": "Home"
+  },
+  {
+    "title": "Birthday reminder",
+    "description": "Mom birthday buy flowers",
+    "category": "Personal"
+  },
+  {
+    "title": "Project Kickoff",
+    "description": "Initiated Phase 2 of the CRM migration",
+    "category": "Work"
+  },
+  {
+    "title": "Laundry tracker",
+    "description": "Wash whites separately, dry delicates on low heat",
+    "category": "Home"
+  },
+  {
+    "title": "Fitness goals",
+    "description": "Run 5km three times a week",
+    "category": "Personal"
+  },
+  {
+    "title": "Bug Fix Log",
+    "description": "Resolved login issue and updated error handling",
+    "category": "Work"
+  },
+  {
+    "title": "Meal prep plan",
+    "description": "Cook and freeze meals for the week on Sunday",
+    "category": "Home"
+  },
+  {
+    "title": "Reading list",
+    "description": "Finish Atomic Habits and start Deep Work",
+    "category": "Personal"
+  },
+  {
+    "title": "Team Retrospective Notes",
+    "description": "Improve communication and reduce context switching",
+    "category": "Work"
+  },
+  {
+    "title": "Garden plan",
+    "description": "Plant tomatoes, basil, and marigolds in October",
+    "category": "Home"
+  },
+  {
+    "title": "Travel bucket list",
+    "description": "Japan, Iceland, Patagonia",
+    "category": "Personal"
+  },
+  {
+    "title": "Release Notes",
+    "description": "Version 2 includes bug fixes and UI enhancements",
+    "category": "Work"
+  },
+  {
+    "title": "Furniture wishlist",
+    "description": "New desk, ergonomic chair, bookshelf",
+    "category": "Home"
+  },
+  {
+    "title": "Meditation routine",
+    "description": "10 minutes daily mindfulness practice",
+    "category": "Personal"
+  },
+  {
+    "title": "Expense Report",
+    "description": "Submit travel and meal receipts by Friday",
+    "category": "Work"
+  },
+  {
+    "title": "Home maintenance",
+    "description": "Fix leaking tap clean AC filters, check smoke alarms",
+    "category": "Home"
+  },
+  {
+    "title": "Team Recognition",
+    "description": "Shoutout to Aditi for leading the migration project",
+    "category": "Work"
+  },
+  { "title": "Movie night",
+    "description": "Watch Inception and The Grand Budapest Hotel",
+    "category": "Personal"
+  },
+  {
+    "title": "Decor ideas",
+    "description": "Add indoor plants and wall art",
+    "category": "Home"}
+]
